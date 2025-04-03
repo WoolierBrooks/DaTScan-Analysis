@@ -1,0 +1,11 @@
+# --------------------------------------------
+# Parkinson's DaTscan Analysis (Core)
+# --------------------------------------------
+antspyx==0.5.4                # Registro de imagens (requer compilação!)
+matplotlib==3.10.1            # Visualização de imagens
+nilearn==0.11.1               # Atlas cerebrais
+numpy==2.2.4                  # Processamento numérico
+pandas==2.2.3                 # Armazenamento de métricas
+pydicom==2.4.3                # Leitura DICOM
+SimpleITK==2.4.1              # Carregar séries 3D
+scipy==1.15.2                 # Redimensionamento de imagens (interpolação)
