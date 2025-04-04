@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="logo.png" alt="Logo" style="width: 50px; height: auto; margin-right: 10px;">
+  <img src="logo.png" alt="Logo" style="width: 200px; height: auto; margin-right: 10px;">
   <h1 style="margin: 0;">DaTscan Analysis for Parkinson's Disease</h1>
 </div>
 
