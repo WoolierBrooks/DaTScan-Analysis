@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; align-items: center;">
+  <img src="logo.png" alt="Logo" style="width: 50px; height: auto; margin-right: 10px;">
   <h1 style="margin: 0;">DaTscan Analysis for Parkinson's Disease</h1>
-  <img src="logo.png" alt="Logo" style="width: 200px; height: auto; margin-left: 10px;">
 </div>
 
 Este projeto fornece uma ferramenta para análise de cortes transversais do cérebro a partir de imagens DaTScan (SPECT) no contexto da doença de Parkinson. Ele processa arquivos DICOM de pacientes, calcula métricas como o SBR (Specific Binding Ratio) para regiões cerebrais específicas (caudado e putâmen), realiza análise de assimetria e gera imagens das fatias alinhadas com o atlas. O resultado é exportado em arquivos CSV para cada paciente, contendo um resumo e métricas detalhadas, além de uma pasta com 32 imagens por paciente.
